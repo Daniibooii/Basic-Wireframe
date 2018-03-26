@@ -1,4 +1,4 @@
-# HW-Wireframe
+# Basic-Wireframe
 
 # Project Description
 This project is intended as practice in setting up a basic website utilizing HTML and CSS.<br>
